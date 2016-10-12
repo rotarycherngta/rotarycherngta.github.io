@@ -1,7 +1,7 @@
 body{
   font-size: 14px;
 }
-.rotary_list{
+.rotary_list a{
   font-size: 1.5rem;
   text-decoration: none;
   line-height: 1.6;
