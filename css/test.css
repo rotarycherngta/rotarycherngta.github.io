@@ -1,3 +1,4 @@
 .basics_inner_list li{
   list-style-type: circle;
+  margin-left: 2em;
 }
