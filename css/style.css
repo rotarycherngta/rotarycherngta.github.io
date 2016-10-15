@@ -208,6 +208,12 @@ ol li{
 
   list-style-type: decimal;
 }
+
+/* rotary link */
+.rotary_inner a{
+  color: #00246c;
+}
+
 /* about. rotary inner end */
 
 
