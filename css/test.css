@@ -1,1 +1,7 @@
+.rotary_basics p{
+  text-indent: 2em;
+}
 
+.rotary_basics .li_title{
+  text-indent: 0;
+}
