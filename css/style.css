@@ -182,7 +182,7 @@ section{
 
 
 
-/* about. rotary inner start */
+/* about. rotary inner public start */
 article p{
   font-size: 1.5rem;
   line-height: 1.6;
@@ -214,7 +214,11 @@ ol li{
   color: #00246c;
 }
 
-/* about. rotary inner end */
+.txt_eng{
+  text-align: left;
+}
+
+/* about. rotary inner public end */
 
 
 
