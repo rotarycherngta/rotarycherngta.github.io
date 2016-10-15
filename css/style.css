@@ -220,7 +220,16 @@ ol li{
   margin-left: 1em;
 }
 
-.rotary_inner li p{
+.rotary_inner p{
+  text-indent: 0;
+}
+
+/* rotary basics ol */
+.rotary_basics p{
+  text-indent: 2em;
+}
+
+.rotary_basics .li_title{
   text-indent: 0;
 }
 /* about. rotary inner public end */
