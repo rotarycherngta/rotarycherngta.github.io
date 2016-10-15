@@ -213,6 +213,16 @@ ol li{
 .rotary_inner a{
   color: #00246c;
 }
+
+/* rotary inner ol */
+.rotary_inner li{
+  list-style-type: decimal;
+  margin-left: 1em;
+}
+
+.rotary_inner li p{
+  text-indent: 0;
+}
 /* about. rotary inner public end */
 
 
