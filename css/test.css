@@ -1,3 +1,7 @@
+.rotary_inner li{
+  list-style-type: decimal;
+}
+
 .txt_tab{
   text-indent: 0;
   margin-left: 2em;
