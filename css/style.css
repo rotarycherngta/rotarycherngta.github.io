@@ -516,7 +516,7 @@ tr td.year{
   z-index: -1;
 
   width: auto;
-  height: 100%;
+  width: 100%;
   position: absolute;
   top: 0;
   right: 0;
