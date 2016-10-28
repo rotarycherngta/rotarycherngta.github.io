@@ -513,7 +513,7 @@ tr td.year{
 }
 
 .album img{
-  z-index: -1;
+/*   z-index: -1; */
 
   width: auto;
   width: 100%;
