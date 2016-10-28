@@ -107,7 +107,7 @@ header{
   height: 100%;
 
   background: url("../images/index_cover.png") no-repeat left center fixed, url('../images/logo_20.png') no-repeat 97% 95% fixed;
-  background-size: cover, auto;
+  background-size: auto, cover;
 }
 
 .index_photo{
