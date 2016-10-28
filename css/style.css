@@ -46,8 +46,7 @@ nav ul{
 }
 
 nav a{
-  font-size: 1.6rem;
-  font-weight: bold;
+  font-size: 1.9rem;
   line-height: 60px;
 
   padding: 10px 0 10px 2.7rem;
@@ -173,7 +172,9 @@ article,
 section{
   z-index: 100;
 
-  float: right;
+  float: left;
+
+  width: 49.4%;
 
   margin: 0 14.2% 0 36.4%;
   padding-bottom: 50px;
