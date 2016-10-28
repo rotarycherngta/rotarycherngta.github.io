@@ -7,7 +7,7 @@
 html,
 body{
   font-family: '微軟正黑體', '黑體-繁', 'Microsoft JhengHei', 'Haiti TC', serif;
-  font-size: 14px;
+  font-size: 12px;
 
   box-sizing: border-box;
   width: 100%;
@@ -175,8 +175,7 @@ section{
 
   float: right;
 
-  width: 58%;
-  margin: 0 6% 0 44%;
+  margin: 0 14.2% 0 36.4%;
   padding-bottom: 50px;
 }
 /* innder public end */
