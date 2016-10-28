@@ -212,45 +212,7 @@ ol li{
 
   list-style-type: decimal;
 }
-
-/* rotary link */
-.rotary_inner a{
-  color: #00246c;
-}
-
-/* rotary inner ol */
-.rotary_inner li{
-  margin-left: 1em;
-
-  list-style-type: decimal;
-}
-
-.rotary_inner li p{
-  text-indent: 0;
-}
 /* about. rotary inner public end */
-
-
-
-/* rotary list start */
-.rotary_list a{
-  font-size: 1.5rem;
-  line-height: 1.6;
-
-  display: block;
-
-  padding: 10px 0;
-
-  text-decoration: none;
-
-  color: #00246c;
-  border-bottom: 1px solid #ccc;
-}
-
-.rotary_list a:hover{
-  color: #872175;
-}
-/* rotary list end */
 
 
 
@@ -544,17 +506,22 @@ tr td.year{
   float: left;
   overflow: hidden;
 
-  width: 220px;
+  width: 32%;
   height: 170px;
-  margin: 0 20px 20px 0;
+  margin: 0 1% 20px 0;
 }
 
 .album img{
   z-index: -1;
 
   width: auto;
-  min-width: 100%;
   height: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
 }
 
 .album h3{
@@ -565,8 +532,9 @@ tr td.year{
   z-index: 1;
   top: 0;
   left: 0;
-
-  width: 220px;
+  bottom: 0;
+  right: 0;
+  margin: auto;
 
   text-align: center;
 
