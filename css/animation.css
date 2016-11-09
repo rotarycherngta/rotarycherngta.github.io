@@ -1,9 +1,8 @@
 @charset="UTF-8";
 
-h3{
+h3, h3:empty:hover{
 	transition: all 0.5s ease-out;
 	opacity: 1;
-
 }
 
 h3:hover{
