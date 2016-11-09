@@ -2,10 +2,10 @@
 
 h3{
 	transition: all 0.5s ease-out;
-		opacity: 0;
+	opacity: 1;
 
 }
 
 h3:hover{
-		opacity: 0.8;
+		opacity: 0;
 }
